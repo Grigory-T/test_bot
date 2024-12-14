@@ -1,3 +1,6 @@
+# https://core.telegram.org/bots/samples
+# https://github.com/python-telegram-bot/python-telegram-bot
+
 import os
 from telegram import ForceReply, Update
 from telegram.ext import (
